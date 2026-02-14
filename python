@@ -1,0 +1,12 @@
+number = 0
+if number % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+    
+if number > 0:
+    print("Number is Positive like my attitude")
+elif number == 0:
+    print("goose egg! be more positive or negative!")
+else:
+    print("Negative? try being positive!")
